@@ -5,7 +5,7 @@ from setuptools import setup
 
 setup(
     name='django-file-storage',
-    version='0.1',
+    version='0.1.1',
     url='http://github.com/meshy/django-file-storage',
     license='LGPL',
     author='Charlie Denton',
